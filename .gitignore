@@ -1,0 +1,10 @@
+bin/
+obj/
+TestingReadOnlyVsConst/
+.vscode/
+.vs/
+
+*.suo
+*.lock
+*.ide*
+packages/*
